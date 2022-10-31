@@ -1,0 +1,329 @@
+[
+  {
+    "id": 1,
+    "name": "OPPO Reno8 4G 8GB - 256GB",
+    "description": "6.4 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+    "color": "Black",
+    "category": ["PHONE"],
+    "brand": "Oppo",
+    "price": 8990000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 2,
+    "name": "OPPO Reno8 Z 5G 8GB - 256GB",
+    "description": "6.43 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+    "color": "Black",
+    "category": ["PHONE"],
+    "brand": "Oppo",
+    "price": 10490000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 3,
+    "name": "OPPO A96 8GB-128GB",
+    "description": "6.59 inch, LCD, FHD+, 1080 x 2412 Pixels",
+    "color": "White",
+    "category": ["PHONE"],
+    "brand": "Oppo",
+    "price": 6690000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 4,
+    "name": "OPPO A57 4GB-64GB",
+    "description": "6.56 inch, LCD, HD+, 720 x 1612 Pixels",
+    "color": "White",
+    "category": ["PHONE"],
+    "brand": "Oppo",
+    "price": 4490000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 5,
+    "name": "OPPO A16k 3GB-32GB",
+    "description": "6.52 inch, IPS LCD, HD+, 720 x 1600 Pixels",
+    "color": "White",
+    "category": ["PHONE"],
+    "brand": "Oppo",
+    "price": 2990000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy S22 Ultra 5G 128GB",
+    "description": "6.8 inch, Dynamic AMOLED 2X, QHD+, 1440 x 3088 Pixels",
+    "color": "White",
+    "category": ["PHONE"],
+    "brand": "Samsung",
+    "price": 24990000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 7,
+    "name": "Samsung Galaxy S22 5G 128GB",
+    "description": "6.1 inch, Dynamic AMOLED 2X, FHD+, 1080 x 2340 Pixels",
+    "color": "Black",
+    "category": ["PHONE"],
+    "brand": "Samsung",
+    "price": 15990000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 8,
+    "name": "Samsung Galaxy A33 5G",
+    "description": "6.4 inch, Super AMOLED, FHD+, 1080 x 2400 Pixels",
+    "color": "Black",
+    "category": ["PHONE"],
+    "brand": "Samsung",
+    "price": 6890000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy A03",
+    "description": "6.5 inch, PLS LCD, HD+, 720 x 1600 Pixels",
+    "color": "Black",
+    "category": ["PHONE"],
+    "brand": "Samsung",
+    "price": 2790000,
+    "status": "DISCONTINUES"
+  },
+  {
+    "id": 10,
+    "name": "Xiaomi Redmi 10 4GB-128GB 2021",
+    "description": "6.5 inch, IPS LCD, FHD+, 1080 x 2400 Pixels",
+    "color": "White",
+    "category": ["PHONE"],
+    "brand": "Xiaomi",
+    "price": 3790000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 11,
+    "name": "Xiaomi Redmi Note 11S 6GB - 128GB",
+    "description": "6.43 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+    "color": "White",
+    "category": ["PHONE"],
+    "brand": "Xiaomi",
+    "price": 5490000,
+    "status": "SOLD_OUT"
+  },
+  {
+    "id": 12,
+    "name": "Realme C35 4GB-128GB",
+    "description": "Chính: 6.58 inch, Chính: IPS LCD, FHD+, 1080 x 2408 Pixels",
+    "color": "White",
+    "category": ["PHONE"],
+    "brand": "Realme",
+    "price": 4190000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 13,
+    "name": "iPhone 13 128GB",
+    "description": "6.1 inch, OLED, Super Retina XDR, 2532 x 1170 Pixels",
+    "color": "Black",
+    "category": ["PHONE","APPLE"],
+    "brand": "Apple (iPhone)",
+    "price": 18990000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 14,
+    "name": "iPhone 13 Pro 128GB",
+    "description": "6.1 inch, OLED, Super Retina XDR, 2532 x 1170 Pixels",
+    "color": "Black",
+    "category": ["PHONE","APPLE"],
+    "brand": "Apple (iPhone)",
+    "price": 23490000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 15,
+    "name": "IPhone 14 Pro Max",
+    "description": "6.7 inch, Super Retina XDR, 2796 x 1290 Pixels",
+    "color": "Purple",
+    "category": ["PHONE","APPLE"],
+    "brand": "Apple (iPhone)",
+    "price": 33990000,
+    "status": "PRE_ORDER"
+  },
+  {
+    "id": 16,
+    "name": "iPhone 14 Pro",
+    "description": "6.1 inch, Super Retina XDR, 2556 x 1179 Pixels",
+    "color": "Purple",
+    "category": ["PHONE","APPLE"],
+    "brand": "Apple (iPhone)",
+    "price": 30990000,
+    "status": "PRE_ORDER"
+  },
+  {
+    "id": 17,
+    "name": "iPhone 14 Plus",
+    "description": "6.7 inch, Super Retina XDR, 2778 x 1284 Pixels",
+    "color": "Purple",
+    "category": ["PHONE","APPLE"],
+    "brand": "Apple (iPhone)",
+    "price": 27990000,
+    "status": "PRE_ORDER"
+  },
+  {
+    "id": 18,
+    "name": "iPhone 14",
+    "description": "6.1 inch, Super Retina XDR, 2532 x 1170 Pixels",
+    "color": "Purple",
+    "category": ["PHONE","APPLE"],
+    "brand": "Apple (iPhone)",
+    "price": 24990000,
+    "status": "PRE_ORDER"
+  },
+  {
+    "id": 19,
+    "name": "iPad Gen 9 2021 10.2 inch WiFi 64GB",
+    "description": "10.2 inch, IPS LCD, Liquid Retina HD, 2160 x 1620 Pixels",
+    "color": "Silver",
+    "category": ["TABLET","APPLE"],
+    "brand": "Apple(iPad)",
+    "price": 8790000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 20,
+    "name": "iPad mini 6 2021 8.3 inch WiFi 64GB",
+    "description": "8.3 inch, IPS LCD, Liquid Retina HD, 2048 x 1536 Pixels",
+    "color": "Silver",
+    "category": ["TABLET","APPLE"],
+    "brand": "Apple(iPad)",
+    "price": 12990000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 21,
+    "name": "Samsung Galaxy Tab S6 Lite 2022",
+    "description": "10.4 inch, TFT LCD, FHD, 1200 x 2000 Pixels",
+    "color": "Silver",
+    "category": ["TABLET"],
+    "brand": "Samsung",
+    "price": 7490000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 22,
+    "name": "Samsung Galaxy Tab A8 2022",
+    "description": "10.5 inch, TFT LCD, WUXGA, 1920 x 1200 Pixels",
+    "color": "Silver",
+    "category": ["TABLET"],
+    "brand": "Samsung",
+    "price": 7490000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 23,
+    "name": "MacBook Air 13\" 2020 M1 256GB",
+    "description": "13.3 inch, 2560 x 1600 Pixels, IPS, IPS LCD LED Backlit, True Tone",
+    "color": "Silver",
+    "category": ["LAPTOP","APPLE"],
+    "brand": "Apple (Macbook)",
+    "price": 22990000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 24,
+    "name": "MacBook Pro 13\" 2020 Touch Bar M1 256GB",
+    "description": "13.3 inch, 2560 x 1600 Pixels, IPS, IPS LCD LED Backlit, True Tone",
+    "color": "Silver",
+    "category": ["LAPTOP","APPLE"],
+    "brand": "Apple (Macbook)",
+    "price": 29999000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 25,
+    "name": "MacBook Pro 16\" 2021 M1 Pro 32GB Ram",
+    "description": "16.2 inches, 3456 x 2234 Pixels",
+    "color": "Silver",
+    "category": ["LAPTOP","APPLE"],
+    "brand": "Apple (Macbook)",
+    "price": 69990000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 26,
+    "name": "Laptop Lenovo IdeaPad Slim 5 15ITL05 i5 1135G7\/8GB\/512GB\/15.6”FHD\/Win 11",
+    "description": "15.6 inch, 1920 x 1080 Pixels, IPS, 60 Hz, 300 nits, IPS LCD LED Backlit, True Tone",
+    "color": "Silver",
+    "category": ["LAPTOP"],
+    "brand": "Lenovo",
+    "price": 14890000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 27,
+    "name": "Laptop Lenovo IdeaPad Gaming 3 15ACH6 R5 5600H\/8GB\/512GB\/15.6\"FHD\/NVIDIA GeForce RTX 3050 4GB\/Win 11",
+    "description": "15.6 inch, 1920 x 1080 Pixels, IPS, 120 Hz, 250 nits, IPS LCD LED Backlit, True Tone",
+    "color": "Silver",
+    "category": ["LAPTOP"],
+    "brand": "Lenovo",
+    "price": 17590000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 28,
+    "name": "Laptop Dell Inspiron N3505 R5 3450U\/8GB\/256GB\/15.6\"FHD Touch\/AMD Radeon Vega 8\/Win 10\/NK",
+    "description": "15.6 inch, 1920 x 1080 Pixels, WVA, 60 Hz, 220 nits, Wide-Viewing Angle (WVA)",
+    "color": "Silver",
+    "category": ["LAPTOP"],
+    "brand": "Dell",
+    "price": 13990000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 29,
+    "name": "AirPods 3 2021",
+    "description": "Wireless headphones",
+    "color": "Black",
+    "category": ["ACCESSORY"],
+    "brand": "Apple",
+    "price": 4799000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 30,
+    "name": "Tai nghe AirPods Pro",
+    "description": "Wireless headphones",
+    "color": "White",
+    "category": ["ACCESSORY"],
+    "brand": "Apple",
+    "price": 4699000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 31,
+    "name": "Thẻ nhớ Toshiba 16GB Class 10 UHS-1 M203",
+    "description": "16GB Class 10 UHS-1 M203",
+    "category": ["ACCESSORY"],
+    "brand": "Toshiba",
+    "price": 144000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 32,
+    "name": "Thẻ nhớ Sandisk 8GB Class 4",
+    "description": "8GB Class 4",
+    "category": ["ACCESSORY"],
+    "brand": "SanDisk",
+    "price": 96000,
+    "status": "STOCKING"
+  },
+  {
+    "id": 33,
+    "name": "Thẻ nhớ Sandisk 16GB Class 10 80 MB\/s",
+    "description": "16GB Class 10 80 MB\/s",
+    "category":  ["ACCESSORY"],
+    "brand": "SanDisk",
+    "price": 162000,
+    "status": "STOCKING"
+  }
+]
